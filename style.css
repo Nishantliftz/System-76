@@ -50,8 +50,8 @@ body {
 }
 
 .hero {
-    background: linear-gradient(135deg, #6d4aff 0%, #8c72ff 100%);
-    color: white;
+    background-image: url("/download.jpeg");
+    color: #FFFDD0;
     padding: 100px 0;
     text-align: center;
 }
@@ -76,7 +76,7 @@ body {
 }
 
 .feature-card:hover {
-    transform: translateY(-5px);
+    transform: translateY(-10px);
     box-shadow: 0 10px 25px rgba(0,0,0,0.1);
 }
 
